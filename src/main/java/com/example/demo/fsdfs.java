@@ -14,4 +14,10 @@ public class fsdfs {
     public String ttt(){
         return "jkjkjkj";
     }
+d
+
+    @RequestMapping("/tt")
+    public String ttt(){
+        return "jkjkjkj";
+    }
 }
