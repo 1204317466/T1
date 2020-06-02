@@ -5,4 +5,7 @@ package com.example.demo;
  * Created by Shen Hao on 2020/6/2
  */
 public class eee {
+    public void  uuu(){
+
+    }
 }
